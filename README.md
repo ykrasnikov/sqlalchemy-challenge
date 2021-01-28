@@ -18,7 +18,7 @@ sqlite database -[Resources\hawaii.sqlite](Resources/hawaii.sqlite)
 
 - 2 tables - Measurements with weather data and Stations with weather stations data
 
-jupyter notebook  - [PthonCode\climate.ipynb](PythonCode/climate.ipynb)
+jupyter notebook  - [PythonCode\climate.ipynb](PythonCode/climate.ipynb)
 
 
 ______________________
@@ -45,7 +45,7 @@ min|	0.000000
 75%|	0.130000
 max|	6.700000
 
-jupyter notebook  - [PthonCode\climate.ipynb](PythonCode/climate.ipynb)
+jupyter notebook  - [PythonCode\climate.ipynb](PythonCode/climate.ipynb)
 
 ____________________
 
@@ -53,7 +53,7 @@ ____________________
 
 <img src="Images/daily_average_prcp.png" align="center" height="300"/>
 
-jupyter notebook  - [PthonCode\climate.ipynb](PythonCode/climate.ipynb)
+jupyter notebook  - [PythonCode\climate.ipynb](PythonCode/climate.ipynb)
 
 ______________________
 
@@ -73,7 +73,7 @@ Station id|Station| Data count
 
 Most Active Weather Station ID = 7
 
-jupyter notebook  - [PthonCode\climate.ipynb](PythonCode/climate.ipynb)
+jupyter notebook  - [PythonCode\climate.ipynb](PythonCode/climate.ipynb)
 ____________________
 
 #### Temperature for most active station
@@ -86,7 +86,7 @@ min temp|54.0
 max temp|85.0
 avg temp|71.7
 
-jupyter notebook  - [PthonCode\climate.ipynb](PythonCode/climate.ipynb)
+jupyter notebook  - [PythonCode\climate.ipynb](PythonCode/climate.ipynb)
 ____________________
 
 ### 1.4 Temperature Analysis
@@ -95,7 +95,7 @@ Temperature histogram over 12 bins (1 year data)
 
 <img src="Images/temp_his.png" align="center" height="300"/>
 
-jupyter notebook  - [PthonCode\climate.ipynb](PythonCode/climate.ipynb)
+jupyter notebook  - [PythonCode\climate.ipynb](PythonCode/climate.ipynb)
 ____________________
 
 ## 2.Part 2 Climate App
@@ -123,14 +123,17 @@ ____________________
 #### 6. bottom line - bad example 
 #### 7.but t-tets shows significant difference in means between the two groups of data showing that difference is not acciddental ...
 
-jupyter notebook  - [PthonCode\temp_analysis_bonus_1.ipynb](PythonCode/temp_analysis_bonus_1.ipynb)
+jupyter notebook  - [PythonCode\temp_analysis_bonus_1.ipynb](PythonCode/temp_analysis_bonus_1.ipynb)
 ________________________
-### 3.3 Expected temp during vacation
+### 3.2 Expected temp during vacation
 
 <img src="Images/bonus_barchart_temp.png" align="center" height="300"/>
 
-Daily Normal Temperatures during vacation
+jupyter notebook  - [PythonCode\temp_analysis_bonus_2.ipynb](PythonCode/temp_analysis_bonus_2.ipynb)
+_____________________
+
+### 3.3 Daily Normal Temperatures during vacation
 
 <img src="Images/bonus_areaplot_temp.png" align="center" height="300"/>
 
-jupyter notebook  - [PthonCode\temp_analysis_bonus_2.ipynb](PythonCode/temp_analysis_bonus_2.ipynb)
+jupyter notebook  - [PythonCode\temp_analysis_bonus_2.ipynb](PythonCode/temp_analysis_bonus_2.ipynb)
